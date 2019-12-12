@@ -1,4 +1,4 @@
-# tecuniversal
+# BaseVue
 
 ## Project setup
 ```
